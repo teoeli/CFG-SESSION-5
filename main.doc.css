@@ -1,0 +1,10 @@
+main.doc.css
+
+.jumbotron {
+
+min-height: 600px;
+background-image: url('images/fruit-and-veg.jpg'); 
+background-size: cover; 
+background-attachment: fixed;
+
+}
