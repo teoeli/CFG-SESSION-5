@@ -7,4 +7,12 @@ background-image: url('images/fruit-and-veg.jpg');
 background-size: cover; 
 background-attachment: fixed;
 
+
+
+
+.btn-facebook:active,.btn-facebook.active,.open>.dropdown-toggle.btn-facebook{background-image:none}
+
 }
+
+
+
