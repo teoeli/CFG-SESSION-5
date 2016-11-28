@@ -1,8 +1,11 @@
 main.css
 
-
-h1 { color:pink;
-font-size: 16px;}
+h1 { 
+color:#F5B7B1;
+font-size: 30px;
+text-align: center;
+font-family: klee;
+}
 
 .jumbotron {
 min-height: 400px;
@@ -10,9 +13,12 @@ min-width: 100px;
 background-color: white;
 background-size: cover; 
 background-attachment: fixed;
-
-
 }
 
-h2 { text-align: center; }
+h2 { 
+	text-align: center; 
+	color:black;
+	font-family: klee;
+	font-size: 16px;
+}
 
