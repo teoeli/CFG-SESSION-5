@@ -29,8 +29,14 @@ h2 { text-align: center;
 }
 
 p {font-size: 30px;
-font-family: helvetica;
+font-family: klee;
 color:gold;
 
+}
+
+p1 {
+	font-family: klee;
+	font-color: black;
+	font-size: 30px;
 }
 
