@@ -7,13 +7,7 @@ text-align: center;
 font-family: klee;
 }
 
-.jumbotron {
-min-height: 400px;
-min-width: 100px;
-background-color: white;
-background-size: cover; 
-background-attachment: fixed;
-}
+
 
 
 
@@ -26,16 +20,7 @@ h2 {
 ul {list-style-type: none;}
 
 
-p2 {font-size: 30px;
-font-family: klee;
-color:gold;}
 
-p1 {
-	font-family: klee;
-	font-color: black;
-	font-size: 30px;
-
-}
 
 p {
 	text-align: center;
