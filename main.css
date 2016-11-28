@@ -43,7 +43,7 @@ p {
 div{text-align:center;}
 
 .thumbnail {overflow: hidden;
-height:350px;
+height:auto;
 width: auto;
 }
 
